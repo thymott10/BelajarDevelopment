@@ -120,7 +120,7 @@ nav {
 .projects .project-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1.5rem;
+  gap: 1rem;
   margin-top: 2rem;
   text-decoration: none;       /* hilangkan underline link */
   color: inherit;              /* gunakan warna teks normal */
